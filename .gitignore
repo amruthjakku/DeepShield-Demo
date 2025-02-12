@@ -1,0 +1,17 @@
+# Python
+*.pyc
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+# Virtual environments
+venv/
+.venv/
+env/
+# Build artifacts
+dist/
+build/
+# IDE files
+.vscode/
+# Other files
+*.log
+*.txt 

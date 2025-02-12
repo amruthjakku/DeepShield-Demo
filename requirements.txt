@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+flask
+flask-cors
+requests
+python-dotenv
